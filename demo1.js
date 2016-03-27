@@ -4,4 +4,5 @@ function go(id){
 	alert(id);
 	var a=0;
 	var disX=0;	
+var str="";
 }
